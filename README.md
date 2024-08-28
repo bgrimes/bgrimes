@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @bgrimes
-- 👀 I’m interested in tbd
-- 🌱 I’m currently learning tbd
-- 💞️ I’m looking to collaborate on tbd
-- 📫 How to reach me tbd
+👋 Hi
